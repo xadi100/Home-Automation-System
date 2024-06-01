@@ -25,7 +25,7 @@ The devices can include lights, fans, and other appliances.
  1. **Clone the Repository:** Clone this repository to your local machine.
  
  ```
- git clone https://github.com/your_username/home-automation.git
+ git clone https://github.com/xadi100/Home-Automation-System
  ```
 
  Hardware Setup: Connect the ESP8266 microcontrollers to the devices you want to control.
